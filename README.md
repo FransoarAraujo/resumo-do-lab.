@@ -1,4 +1,4 @@
-# resumo-do-lab.
+# resumo-do-lab
 Resumo de Aprendizado: Conceitos Básicos do Microsoft Azure durante o desenvolvimento do lab na DIO
 
 1. Conceitos de Computação em Nuvem
