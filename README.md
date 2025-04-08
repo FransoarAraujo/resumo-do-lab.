@@ -1,5 +1,5 @@
 # resumo-do-lab.
-Resumo de Aprendizado: Conceitos Básicos do Microsoft Azure (AZ-900) durante o desenvolvimento do lab na DIO
+Resumo de Aprendizado: Conceitos Básicos do Microsoft Azure durante o desenvolvimento do lab na DIO
 
 1. Conceitos de Computação em Nuvem
 A computação em nuvem é a base da transformação digital. Ela consiste no fornecimento de recursos e serviços, como armazenamento, processamento e aplicativos, por meio da internet. Os principais pontos abordados foram:
